@@ -65,9 +65,9 @@ b {
 <div class="contenedor" >
 
 @if($solicitud->motivo == 'lanzamiento')
-<!--<img  src="{{ asset('/img/bono_lanzamiento.png')}}" width=790 height=1015>-->
+<img  src="{{ asset('/img/bono_lanzamiento.png')}}" width=790 height=1015>
 @endif
-<!--<img  src="{{ asset('/img/bono.png')}}" width=790 height=1015>-->
+<img  src="{{ asset('/img/bono.png')}}" width=790 height=1015>
 
 @if($solicitud->motivo == 'Condolencias')
 <div  id="texto_1" class="cls_004">

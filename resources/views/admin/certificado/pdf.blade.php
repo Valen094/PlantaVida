@@ -42,7 +42,7 @@ b {
 #texto_1{
     position: absolute;
     left: 165px;
-    top: 200px;
+    top: 40%;
     width: 63%;
     text-align: center;
 }
@@ -68,7 +68,7 @@ img{
 
 <div class="contenedor" >
 
-<!--<img  src="{{ asset('/img/certificado.png')}}">-->
+<!-- <img  src="{{ asset('/img/certificado.png')}}" > -->
 
 <?php setlocale(LC_CTYPE, 'de_DE.UTF8'); ?>
 <div  id="texto_1" class="cls_004">

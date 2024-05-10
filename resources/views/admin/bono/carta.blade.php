@@ -59,7 +59,7 @@ $hoy =  date('d')." de ".$meses[date('n')-1]. " del ".date('Y') ;
 
 <div class="contenedor" >
 
-<!--<img src="{{ asset('/img/carta.jpg')}}" width=790 height=1015 > -->
+<img src="{{ asset('/img/carta.jpg')}}" width=790 height=1015 >
 
 
 <div  id="texto_1" class="cls_004">
