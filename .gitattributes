@@ -3,3 +3,20 @@
 *.scss linguist-vendored
 *.js linguist-vendored
 CHANGELOG.md export-ignore
+
+# Forzar archivos de configuración a usar LF
+*.sh text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.env text eol=lf
+*.example text eol=lf
+
+# Para otros archivos que requieren CRLF en Windows
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# Archivos binarios (imágenes, etc.) no deben ser modificados
+*.png binary
+*.jpg binary
+*.jpeg binary
+

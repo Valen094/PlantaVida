@@ -95,7 +95,7 @@
     <div class="container d-flex align-items-center">
 
       <!-- Uncomment below if you prefer to use an image logo -->
-       <a href="" class="logo mr-auto"><img src="{{ asset('img/logo1.png')}}" alt="" class="img-fluid"></a>
+       <a href="/" class="logo mr-auto"><img src="{{ asset('img/logo1.png')}}" alt="" class="img-fluid"></a>
 
       <nav class="nav-menu d-none d-lg-block">
         <ul>
