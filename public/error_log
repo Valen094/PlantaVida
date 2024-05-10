@@ -1,0 +1,2 @@
+[05-Jan-2022 21:01:07 UTC] PHP Notice:  require_once(): read of 492266 bytes failed with errno=12 Cannot allocate memory in /home/camaraar/laravelplantavida/vendor/composer/autoload_real.php on line 28
+[05-Jan-2022 21:01:08 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/camaraar/laravelplantavida/vendor/composer/autoload_static.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/camaraar/laravelplantavida/vendor/composer/autoload_real.php on line 28
