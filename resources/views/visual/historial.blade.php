@@ -117,7 +117,7 @@ ul.timeline > li:before {
 
       <nav class="nav-menu d-none d-lg-block">
         <ul>
-          <li><a href="#about">Inicio</a></li>
+          <li><a href="/">Inicio</a></li>
   
         </ul>
       </nav><!-- .nav-menu -->
